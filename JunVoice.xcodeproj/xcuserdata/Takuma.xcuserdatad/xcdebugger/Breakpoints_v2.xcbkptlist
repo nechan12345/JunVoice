@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B8731F94-01FC-4BF9-AAA6-9ECBD30E0839"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5727EB7-03D1-4CAA-AA20-51281A1788D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JunVoice/SecondViewController.swift"
+            timestampString = "589126880.426368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01D729E6-5E1B-4DA5-B79C-16202A5BDD22"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JunVoice/ForthViewController.swift"
+            timestampString = "585664421.052063"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "012E9BF4-2431-4EED-8E1F-D986A2FDA49A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JunVoice/FourthViewController.swift"
+            timestampString = "589126880.427141"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "FourthViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "012E9BF4-2431-4EED-8E1F-D986A2FDA49A - 3824085ff3eaa8b7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JunVoice.FourthViewController.Path18.getter : Foundation.URL"
+                  moduleName = "JunVoice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Takuma/Documents/SwiftFlile/JunVoice/JunVoice/FourthViewController.swift"
+                  timestampString = "585668297.99799"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "012E9BF4-2431-4EED-8E1F-D986A2FDA49A - 2fbbc3f915e42560"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JunVoice.FourthViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; JunVoice.FourthViewController"
+                  moduleName = "JunVoice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Takuma/Documents/SwiftFlile/JunVoice/JunVoice/FourthViewController.swift"
+                  timestampString = "585668298.00174"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "5136">
+               </Location>
+               <Location
+                  uuid = "012E9BF4-2431-4EED-8E1F-D986A2FDA49A - 1ffd45b48daeab2c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JunVoice.FourthViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;JunVoice.FourthViewController&gt;"
+                  moduleName = "JunVoice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Takuma/Documents/SwiftFlile/JunVoice/JunVoice/FourthViewController.swift"
+                  timestampString = "585668298.004514"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "5059">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBBB3ADF-D4D8-4824-ADFB-5414418DEE29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JunVoice/FirstViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "EBBB3ADF-D4D8-4824-ADFB-5414418DEE29 - ea2ce34c958178dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JunVoice.FirstViewController.Path1.getter : Foundation.URL"
+                  moduleName = "JunVoice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Takuma/Documents/SwiftFlile/JunVoice/JunVoice/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "EBBB3ADF-D4D8-4824-ADFB-5414418DEE29 - 3fb2a3730f807e5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JunVoice.FirstViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; JunVoice.FirstViewController"
+                  moduleName = "JunVoice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Takuma/Documents/SwiftFlile/JunVoice/JunVoice/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "495">
+               </Location>
+               <Location
+                  uuid = "EBBB3ADF-D4D8-4824-ADFB-5414418DEE29 - fbbbbd3cdc6c68c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JunVoice.FirstViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;JunVoice.FirstViewController&gt;"
+                  moduleName = "JunVoice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Takuma/Documents/SwiftFlile/JunVoice/JunVoice/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "418">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
