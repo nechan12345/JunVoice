@@ -28,7 +28,7 @@ class EightViewController: BaseViewController {
     let Path15 = Bundle.main.bundleURL.appendingPathComponent("フルパワーハイメガキャノン.mp3")
     let Path16 = Bundle.main.bundleURL.appendingPathComponent("ローズウィップ.mp3")
     let Path17 = Bundle.main.bundleURL.appendingPathComponent("フン、スミクズにしてやる.mp3")
-    let Path18 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path18 = Bundle.main.bundleURL.appendingPathComponent("浦飯.mp3")
     let Path19 = Bundle.main.bundleURL.appendingPathComponent("")
     
     

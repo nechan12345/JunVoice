@@ -29,7 +29,7 @@ class ElevenViewController: BaseViewController {
     let Path16 = Bundle.main.bundleURL.appendingPathComponent("安心セイ.mp3")
     let Path17 = Bundle.main.bundleURL.appendingPathComponent("おちつけいー.mp3")
     let Path18 = Bundle.main.bundleURL.appendingPathComponent("見てくれぃー.mp3")
-    let Path19 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path19 = Bundle.main.bundleURL.appendingPathComponent("ウメーイ.mp3")
 
     @IBAction func pushButton(_ sender: UIButton){
         do{

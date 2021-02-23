@@ -11,6 +11,19 @@
 		F1447A3B2349F568001ACEC3 /* JFATabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = F1447A392349F568001ACEC3 /* JFATabBarController.m */; };
 		F1447BC6234B7EBF001ACEC3 /* EightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1447BC5234B7EBF001ACEC3 /* EightViewController.swift */; };
 		F1447BCA234B89C6001ACEC3 /* NineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1447BC9234B89C6001ACEC3 /* NineViewController.swift */; };
+		F154F7E424E2CDB900DCC353 /* 今年もおめでたいと思お！.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7E324E2CDB900DCC353 /* 今年もおめでたいと思お！.mp3 */; };
+		F154F7E624E2CDE900DCC353 /* 意外とナゲイー.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7E524E2CDE800DCC353 /* 意外とナゲイー.mp3 */; };
+		F154F7E924E2CE1000DCC353 /* 震えて眠れよ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7E724E2CE1000DCC353 /* 震えて眠れよ.mp3 */; };
+		F154F7EA24E2CE1000DCC353 /* 通報しました.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7E824E2CE1000DCC353 /* 通報しました.mp3 */; };
+		F154F7EE24E2CF3100DCC353 /* ないす4回.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7EB24E2CF3000DCC353 /* ないす4回.mp3 */; };
+		F154F7EF24E2CF3100DCC353 /* ナイスナイス.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7EC24E2CF3100DCC353 /* ナイスナイス.mp3 */; };
+		F154F7F024E2CF3100DCC353 /* ないすぅ！.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7ED24E2CF3100DCC353 /* ないすぅ！.mp3 */; };
+		F154F7F224E2CF4C00DCC353 /* ウメーイ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7F124E2CF4C00DCC353 /* ウメーイ.mp3 */; };
+		F154F7F524E2CF6400DCC353 /* チューするから許してくんない？.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7F324E2CF6300DCC353 /* チューするから許してくんない？.mp3 */; };
+		F154F7F624E2CF6400DCC353 /* 泣き.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7F424E2CF6400DCC353 /* 泣き.mp3 */; };
+		F154F7F824E2CF8500DCC353 /* 浦飯.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7F724E2CF8500DCC353 /* 浦飯.mp3 */; };
+		F154F7FA24E2D3A900DCC353 /* 皆は赤ちゃん、好き？.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7F924E2D3A900DCC353 /* 皆は赤ちゃん、好き？.mp3 */; };
+		F154F7FC24E2D9BA00DCC353 /* ねもうすちゃんねるマジで.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F154F7FB24E2D9BA00DCC353 /* ねもうすちゃんねるマジで.mp3 */; };
 		F16F3C2522B67522005B368D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16F3C2422B67522005B368D /* AppDelegate.swift */; };
 		F16F3C2722B67522005B368D /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16F3C2622B67522005B368D /* FirstViewController.swift */; };
 		F16F3C2922B67522005B368D /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16F3C2822B67522005B368D /* SecondViewController.swift */; };
@@ -68,14 +81,12 @@
 		F1A8991F245BED59003E22D5 /* おちつけ！おちつけ！.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A89824245BED58003E22D5 /* おちつけ！おちつけ！.mp3 */; };
 		F1A89920245BED59003E22D5 /* 人間じゃねぇからだ！.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A89825245BED58003E22D5 /* 人間じゃねぇからだ！.mp3 */; };
 		F1A89921245BED59003E22D5 /* 来いよ、大きくしてやる.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A89826245BED58003E22D5 /* 来いよ、大きくしてやる.mp3 */; };
-		F1A89922245BED59003E22D5 /* ねもうすちゃんねるマジで.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A89827245BED58003E22D5 /* ねもうすちゃんねるマジで.mp3 */; };
 		F1A89923245BED59003E22D5 /* 大成功の前に必ず大敗があるわけよ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A89828245BED58003E22D5 /* 大成功の前に必ず大敗があるわけよ.mp3 */; };
 		F1A89924245BED59003E22D5 /* 大丈夫だよ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A89829245BED58003E22D5 /* 大丈夫だよ.mp3 */; };
 		F1A89925245BED59003E22D5 /* それはお前ぇ、凄い事だねぇ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A8982A245BED58003E22D5 /* それはお前ぇ、凄い事だねぇ.mp3 */; };
 		F1A89926245BED59003E22D5 /* お前は無！.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A8982B245BED58003E22D5 /* お前は無！.mp3 */; };
 		F1A89927245BED59003E22D5 /* しっかりしろよ、おしゃまさん.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A8982C245BED58003E22D5 /* しっかりしろよ、おしゃまさん.mp3 */; };
 		F1A89928245BED59003E22D5 /* 安心しろ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A8982D245BED58003E22D5 /* 安心しろ.mp3 */; };
-		F1A89929245BED59003E22D5 /* 今年もおめでたいと思お！.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A8982E245BED58003E22D5 /* 今年もおめでたいと思お！.mp3 */; };
 		F1A8992A245BED59003E22D5 /* 俺たちが一番だ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A8982F245BED58003E22D5 /* 俺たちが一番だ.mp3 */; };
 		F1A8992B245BED59003E22D5 /* お前はよお、黙ってろよ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A89832245BED58003E22D5 /* お前はよお、黙ってろよ.mp3 */; };
 		F1A8992C245BED59003E22D5 /* そのグレネードは万年早いおー.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F1A89833245BED58003E22D5 /* そのグレネードは万年早いおー.mp3 */; };
@@ -288,6 +299,19 @@
 		F1447A392349F568001ACEC3 /* JFATabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JFATabBarController.m; sourceTree = "<group>"; };
 		F1447BC5234B7EBF001ACEC3 /* EightViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EightViewController.swift; sourceTree = "<group>"; };
 		F1447BC9234B89C6001ACEC3 /* NineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NineViewController.swift; sourceTree = "<group>"; };
+		F154F7E324E2CDB900DCC353 /* 今年もおめでたいと思お！.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "今年もおめでたいと思お！.mp3"; path = "JunVoice/音声ファイル/挨拶/今年もおめでたいと思お！.mp3"; sourceTree = SOURCE_ROOT; };
+		F154F7E524E2CDE800DCC353 /* 意外とナゲイー.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "意外とナゲイー.mp3"; sourceTree = "<group>"; };
+		F154F7E724E2CE1000DCC353 /* 震えて眠れよ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "震えて眠れよ.mp3"; sourceTree = "<group>"; };
+		F154F7E824E2CE1000DCC353 /* 通報しました.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "通報しました.mp3"; sourceTree = "<group>"; };
+		F154F7EB24E2CF3000DCC353 /* ないす4回.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ないす4回.mp3"; path = "JunVoice/音声ファイル/大声/ないす4回.mp3"; sourceTree = SOURCE_ROOT; };
+		F154F7EC24E2CF3100DCC353 /* ナイスナイス.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ナイスナイス.mp3"; path = "JunVoice/音声ファイル/大声/ナイスナイス.mp3"; sourceTree = SOURCE_ROOT; };
+		F154F7ED24E2CF3100DCC353 /* ないすぅ！.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "ないすぅ！.mp3"; path = "JunVoice/音声ファイル/大声/ないすぅ！.mp3"; sourceTree = SOURCE_ROOT; };
+		F154F7F124E2CF4C00DCC353 /* ウメーイ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ウメーイ.mp3"; sourceTree = "<group>"; };
+		F154F7F324E2CF6300DCC353 /* チューするから許してくんない？.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "チューするから許してくんない？.mp3"; sourceTree = "<group>"; };
+		F154F7F424E2CF6400DCC353 /* 泣き.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "泣き.mp3"; sourceTree = "<group>"; };
+		F154F7F724E2CF8500DCC353 /* 浦飯.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "浦飯.mp3"; sourceTree = "<group>"; };
+		F154F7F924E2D3A900DCC353 /* 皆は赤ちゃん、好き？.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "皆は赤ちゃん、好き？.mp3"; sourceTree = "<group>"; };
+		F154F7FB24E2D9BA00DCC353 /* ねもうすちゃんねるマジで.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ねもうすちゃんねるマジで.mp3"; sourceTree = "<group>"; };
 		F16F3C2122B67522005B368D /* JunVoice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JunVoice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F16F3C2422B67522005B368D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F16F3C2622B67522005B368D /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -347,14 +371,12 @@
 		F1A89824245BED58003E22D5 /* おちつけ！おちつけ！.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "おちつけ！おちつけ！.mp3"; sourceTree = "<group>"; };
 		F1A89825245BED58003E22D5 /* 人間じゃねぇからだ！.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "人間じゃねぇからだ！.mp3"; sourceTree = "<group>"; };
 		F1A89826245BED58003E22D5 /* 来いよ、大きくしてやる.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "来いよ、大きくしてやる.mp3"; sourceTree = "<group>"; };
-		F1A89827245BED58003E22D5 /* ねもうすちゃんねるマジで.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ねもうすちゃんねるマジで.mp3"; sourceTree = "<group>"; };
 		F1A89828245BED58003E22D5 /* 大成功の前に必ず大敗があるわけよ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "大成功の前に必ず大敗があるわけよ.mp3"; sourceTree = "<group>"; };
 		F1A89829245BED58003E22D5 /* 大丈夫だよ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "大丈夫だよ.mp3"; sourceTree = "<group>"; };
 		F1A8982A245BED58003E22D5 /* それはお前ぇ、凄い事だねぇ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "それはお前ぇ、凄い事だねぇ.mp3"; sourceTree = "<group>"; };
 		F1A8982B245BED58003E22D5 /* お前は無！.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "お前は無！.mp3"; sourceTree = "<group>"; };
 		F1A8982C245BED58003E22D5 /* しっかりしろよ、おしゃまさん.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "しっかりしろよ、おしゃまさん.mp3"; sourceTree = "<group>"; };
 		F1A8982D245BED58003E22D5 /* 安心しろ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "安心しろ.mp3"; sourceTree = "<group>"; };
-		F1A8982E245BED58003E22D5 /* 今年もおめでたいと思お！.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "今年もおめでたいと思お！.mp3"; sourceTree = "<group>"; };
 		F1A8982F245BED58003E22D5 /* 俺たちが一番だ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "俺たちが一番だ.mp3"; sourceTree = "<group>"; };
 		F1A89832245BED58003E22D5 /* お前はよお、黙ってろよ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "お前はよお、黙ってろよ.mp3"; sourceTree = "<group>"; };
 		F1A89833245BED58003E22D5 /* そのグレネードは万年早いおー.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "そのグレネードは万年早いおー.mp3"; sourceTree = "<group>"; };
@@ -662,6 +684,7 @@
 		F1A897F3245BED58003E22D5 /* おまけ */ = {
 			isa = PBXGroup;
 			children = (
+				F154F7FB24E2D9BA00DCC353 /* ねもうすちゃんねるマジで.mp3 */,
 				F1A897F4245BED58003E22D5 /* あえぎ声.mp3 */,
 				F1A897F5245BED58003E22D5 /* ハーレの音.mp3 */,
 				F1A897F6245BED58003E22D5 /* かわいー.mp3 */,
@@ -677,6 +700,7 @@
 				F1A89805245BED58003E22D5 /* テラコッタ.mp3 */,
 				F1A89806245BED58003E22D5 /* あっ、同い年なんだ.mp3 */,
 				F1A89807245BED58003E22D5 /* 匂うねぇ.mp3 */,
+				F154F7E524E2CDE800DCC353 /* 意外とナゲイー.mp3 */,
 			);
 			path = "おまけ";
 			sourceTree = "<group>";
@@ -725,6 +749,7 @@
 				F1A89816245BED58003E22D5 /* いってきまーす.mp3 */,
 				F1A89817245BED58003E22D5 /* よろしくお願いしまーす.mp3 */,
 				F1A89818245BED58003E22D5 /* ご視聴ありがとうございました。.mp3 */,
+				F154F7E324E2CDB900DCC353 /* 今年もおめでたいと思お！.mp3 */,
 				F1A89819245BED58003E22D5 /* わいわい */,
 			);
 			path = "挨拶";
@@ -752,15 +777,16 @@
 				F1A89824245BED58003E22D5 /* おちつけ！おちつけ！.mp3 */,
 				F1A89825245BED58003E22D5 /* 人間じゃねぇからだ！.mp3 */,
 				F1A89826245BED58003E22D5 /* 来いよ、大きくしてやる.mp3 */,
-				F1A89827245BED58003E22D5 /* ねもうすちゃんねるマジで.mp3 */,
+				F154F7F924E2D3A900DCC353 /* 皆は赤ちゃん、好き？.mp3 */,
 				F1A89828245BED58003E22D5 /* 大成功の前に必ず大敗があるわけよ.mp3 */,
 				F1A89829245BED58003E22D5 /* 大丈夫だよ.mp3 */,
 				F1A8982A245BED58003E22D5 /* それはお前ぇ、凄い事だねぇ.mp3 */,
 				F1A8982B245BED58003E22D5 /* お前は無！.mp3 */,
 				F1A8982C245BED58003E22D5 /* しっかりしろよ、おしゃまさん.mp3 */,
 				F1A8982D245BED58003E22D5 /* 安心しろ.mp3 */,
-				F1A8982E245BED58003E22D5 /* 今年もおめでたいと思お！.mp3 */,
 				F1A8982F245BED58003E22D5 /* 俺たちが一番だ.mp3 */,
+				F154F7E724E2CE1000DCC353 /* 震えて眠れよ.mp3 */,
+				F154F7E824E2CE1000DCC353 /* 通報しました.mp3 */,
 			);
 			path = "お言葉";
 			sourceTree = "<group>";
@@ -808,6 +834,9 @@
 		F1A89844245BED58003E22D5 /* 大声 */ = {
 			isa = PBXGroup;
 			children = (
+				F154F7EB24E2CF3000DCC353 /* ないす4回.mp3 */,
+				F154F7ED24E2CF3100DCC353 /* ないすぅ！.mp3 */,
+				F154F7EC24E2CF3100DCC353 /* ナイスナイス.mp3 */,
 				F1A89845245BED58003E22D5 /* あやつじ.wav */,
 				F1A89846245BED58003E22D5 /* しゃーーー.mp3 */,
 				F1A89847245BED58003E22D5 /* 沼叫び声.mp3 */,
@@ -832,6 +861,7 @@
 		F1A89857245BED58003E22D5 /* セイ */ = {
 			isa = PBXGroup;
 			children = (
+				F154F7F124E2CF4C00DCC353 /* ウメーイ.mp3 */,
 				F1A89858245BED58003E22D5 /* テイー（高）.mp3 */,
 				F1A89859245BED58003E22D5 /* コワイー.mp3 */,
 				F1A8985A245BED58003E22D5 /* すぃー(低).mp3 */,
@@ -869,6 +899,8 @@
 		F1A89871245BED58003E22D5 /* 失敗 */ = {
 			isa = PBXGroup;
 			children = (
+				F154F7F324E2CF6300DCC353 /* チューするから許してくんない？.mp3 */,
+				F154F7F424E2CF6400DCC353 /* 泣き.mp3 */,
 				F1A89872245BED58003E22D5 /* 熱い.mp3 */,
 				F1A89873245BED58003E22D5 /* 作っていいか？ダイヤモンドのツルハシ.mp3 */,
 				F1A89874245BED58003E22D5 /* も〜やーめーてーよ.mp3 */,
@@ -1142,6 +1174,7 @@
 		F1A898EE245BED59003E22D5 /* バトル系 */ = {
 			isa = PBXGroup;
 			children = (
+				F154F7F724E2CF8500DCC353 /* 浦飯.mp3 */,
 				F1A898EF245BED59003E22D5 /* ローズウィップ.mp3 */,
 				F1A898F0245BED59003E22D5 /* フン、スミクズにしてやる.mp3 */,
 				F1A898F1245BED59003E22D5 /* ちょっとー、なーにやってんのー.mp3 */,
@@ -1240,11 +1273,14 @@
 				F1A89992245BED59003E22D5 /* ふーん.mp3 in Resources */,
 				F1A89995245BED59003E22D5 /* はーけんべーさ.mp3 in Resources */,
 				F1A8998F245BED59003E22D5 /* オンギャーオンギャー.mp3 in Resources */,
+				F154F7F624E2CF6400DCC353 /* 泣き.mp3 in Resources */,
 				F1A899AC245BED59003E22D5 /* やらないおー.mp3 in Resources */,
+				F154F7F824E2CF8500DCC353 /* 浦飯.mp3 in Resources */,
 				F1A8999A245BED59003E22D5 /* エッサッサ.mp3 in Resources */,
 				F1A8991D245BED59003E22D5 /* 俺が絶対守ってやるから.mp3 in Resources */,
 				F1A89923245BED59003E22D5 /* 大成功の前に必ず大敗があるわけよ.mp3 in Resources */,
 				F1A89954245BED59003E22D5 /* セイー.mp3 in Resources */,
+				F154F7F524E2CF6400DCC353 /* チューするから許してくんない？.mp3 in Resources */,
 				F1A8998A245BED59003E22D5 /* なんとかなんですから銀さーん.mp3 in Resources */,
 				F1A89920245BED59003E22D5 /* 人間じゃねぇからだ！.mp3 in Resources */,
 				F1A8997D245BED59003E22D5 /* ハーハーヒーヒー！.mp3 in Resources */,
@@ -1257,6 +1293,7 @@
 				F1A8993A245BED59003E22D5 /* 効いたなぁ一発なぁ！？.mp3 in Resources */,
 				F1A899B6245BED59003E22D5 /* yeah.mp3 in Resources */,
 				F1A8998B245BED59003E22D5 /* 汗明.mp3 in Resources */,
+				F154F7F024E2CF3100DCC353 /* ないすぅ！.mp3 in Resources */,
 				F1A89958245BED59003E22D5 /* non,non,non,say-^^.mp3 in Resources */,
 				F1A899A8245BED59003E22D5 /* やったおー.mp3 in Resources */,
 				F1A89919245BED59003E22D5 /* 人は人を殺せない殺さない.mp3 in Resources */,
@@ -1302,9 +1339,11 @@
 				F1A899B5245BED59003E22D5 /* Yeah!.mp3 in Resources */,
 				F1A89982245BED59003E22D5 /* フヒフー.mp3 in Resources */,
 				F1A89988245BED59003E22D5 /* うっそー！.mp3 in Resources */,
+				F154F7E624E2CDE900DCC353 /* 意外とナゲイー.mp3 in Resources */,
 				F1A8994C245BED59003E22D5 /* びゃああ、うまいぃ.mp3 in Resources */,
 				F1A8991C245BED59003E22D5 /* お前らの全盛期はいつだよ？俺は今なんだよ.mp3 in Resources */,
 				F1A8990F245BED59003E22D5 /* よろしゅう！.wav in Resources */,
+				F154F7EF24E2CF3100DCC353 /* ナイスナイス.mp3 in Resources */,
 				F1A899BA245BED59003E22D5 /* Yeah！マイフレンド！Hey!.mp3 in Resources */,
 				F1A8999B245BED59003E22D5 /* かってもさ.mp3 in Resources */,
 				F1A899CB245BED59003E22D5 /* 危ないショーン当たっちゃうよ.mp3 in Resources */,
@@ -1330,6 +1369,7 @@
 				F1A89971245BED59003E22D5 /* なんかトンデモナイ所来ちゃった.mp3 in Resources */,
 				F1A89973245BED59003E22D5 /* ひぃごめんなさいぃ.mp3 in Resources */,
 				F1A89931245BED59003E22D5 /* っざけんなよおおおお！！！.wav in Resources */,
+				F154F7FA24E2D3A900DCC353 /* 皆は赤ちゃん、好き？.mp3 in Resources */,
 				F1A89934245BED59003E22D5 /* ウミガメの卵かなぁ！？.mp3 in Resources */,
 				F1A898FD245BED59003E22D5 /* 87053.mp3 in Resources */,
 				F1A8997C245BED59003E22D5 /* 低いよなぁ！？.mp3 in Resources */,
@@ -1355,7 +1395,6 @@
 				F1A899BB245BED59003E22D5 /* ソーリーメーン.mp3 in Resources */,
 				F1A89903245BED59003E22D5 /* 捉えなさい！その獣を.mp3 in Resources */,
 				F1A89966245BED59003E22D5 /* 熱い.mp3 in Resources */,
-				F1A89922245BED59003E22D5 /* ねもうすちゃんねるマジで.mp3 in Resources */,
 				F1A89993245BED59003E22D5 /* いいよ(リョーマ).mp3 in Resources */,
 				F1A8993C245BED59003E22D5 /* あやつじ.wav in Resources */,
 				F1A8996C245BED59003E22D5 /* 痛い！.mp3 in Resources */,
@@ -1396,7 +1435,9 @@
 				F1A8994A245BED59003E22D5 /* なんてことなんだぁ！？.mp3 in Resources */,
 				F1A8990E245BED59003E22D5 /* こんばんは.mp3 in Resources */,
 				F1A89981245BED59003E22D5 /* ドチャン×3.mp3 in Resources */,
+				F154F7EE24E2CF3100DCC353 /* ないす4回.mp3 in Resources */,
 				F1A8992E245BED59003E22D5 /* お前がやれよぉ.mp3 in Resources */,
+				F154F7EA24E2CE1000DCC353 /* 通報しました.mp3 in Resources */,
 				F1A899D2245BED59003E22D5 /* ハイメガキャノン.mp3 in Resources */,
 				F1A898F7245BED59003E22D5 /* かわいー.mp3 in Resources */,
 				F1A89935245BED59003E22D5 /* お前らぁ！？俺たち今日も頑張るよなぁ！？.mp3 in Resources */,
@@ -1413,7 +1454,9 @@
 				F1A899B0245BED59003E22D5 /* OK?.mp3 in Resources */,
 				F1A89989245BED59003E22D5 /* ナントカダァ.mp3 in Resources */,
 				F1A89907245BED59003E22D5 /* 乱暴.mp3 in Resources */,
+				F154F7E924E2CE1000DCC353 /* 震えて眠れよ.mp3 in Resources */,
 				F1A8993E245BED59003E22D5 /* 沼叫び声.mp3 in Resources */,
+				F154F7FC24E2D9BA00DCC353 /* ねもうすちゃんねるマジで.mp3 in Resources */,
 				F1A898F6245BED59003E22D5 /* ハーレの音.mp3 in Resources */,
 				F1A899CC245BED59003E22D5 /* 耳元で騒ぐな.mp3 in Resources */,
 				F1A89990245BED59003E22D5 /* タカハシー！.mp3 in Resources */,
@@ -1426,15 +1469,16 @@
 				F1A89916245BED59003E22D5 /* ホンデナー.mp3 in Resources */,
 				F1A899D1245BED59003E22D5 /* ブレストファイヤー！.mp3 in Resources */,
 				F1A89932245BED59003E22D5 /* あたりめえだろうがよ.mp3 in Resources */,
+				F154F7E424E2CDB900DCC353 /* 今年もおめでたいと思お！.mp3 in Resources */,
 				F1A89972245BED59003E22D5 /* やーめた.mp3 in Resources */,
 				F1A89983245BED59003E22D5 /* まだ終わってないんだぁ！.mp3 in Resources */,
 				F1A89953245BED59003E22D5 /* テイー.mp3 in Resources */,
 				F1A8993D245BED59003E22D5 /* しゃーーー.mp3 in Resources */,
 				F1A8999D245BED59003E22D5 /* よーし(沼).mp3 in Resources */,
+				F154F7F224E2CF4C00DCC353 /* ウメーイ.mp3 in Resources */,
 				F1A89908245BED59003E22D5 /* 暖房.mp3 in Resources */,
 				F1A899A0245BED59003E22D5 /* あじすんだーおー.mp3 in Resources */,
 				F1A8994B245BED59003E22D5 /* 右ストレート.mp3 in Resources */,
-				F1A89929245BED59003E22D5 /* 今年もおめでたいと思お！.mp3 in Resources */,
 				F1A89965245BED59003E22D5 /* あっはは！.mp3 in Resources */,
 				F1A8999F245BED59003E22D5 /* よぉーし.mp3 in Resources */,
 				F1A89986245BED59003E22D5 /* 大将が背中を見せるな.mp3 in Resources */,
@@ -1639,12 +1683,12 @@
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = JunVoice/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.2.1;
+				MARKETING_VERSION = 2.2.2;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hoge.Voice.Junichi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1668,12 +1712,12 @@
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = JunVoice/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 2.2.1;
+				MARKETING_VERSION = 2.2.2;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hoge.Voice.Junichi;
 				PRODUCT_NAME = "$(TARGET_NAME)";

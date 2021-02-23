@@ -19,7 +19,7 @@ class SecondViewController: BaseViewController{
     let Path6 = Bundle.main.bundleURL.appendingPathComponent("ﾊﾞｲﾄｶﾞﾝﾊﾞﾚ.mp3")
     let Path7 = Bundle.main.bundleURL.appendingPathComponent("最低？結構でーす.mp3")
     let Path8 = Bundle.main.bundleURL.appendingPathComponent("俺たちが一番だ.mp3")
-    let Path9 = Bundle.main.bundleURL.appendingPathComponent("ねもうすちゃんねるマジで.mp3")
+    let Path9 = Bundle.main.bundleURL.appendingPathComponent("皆は赤ちゃん、好き？.mp3")
     let Path10 = Bundle.main.bundleURL.appendingPathComponent("来いよ、大きくしてやる.mp3")
     let Path11 = Bundle.main.bundleURL.appendingPathComponent("お前は無！.mp3")
     let Path12 = Bundle.main.bundleURL.appendingPathComponent("ご存知でない！？.mp3")
@@ -28,9 +28,8 @@ class SecondViewController: BaseViewController{
     let Path15 = Bundle.main.bundleURL.appendingPathComponent("それはお前ぇ、凄い事だねぇ.mp3")
     let Path16 = Bundle.main.bundleURL.appendingPathComponent("人は人を殺せない殺さない.mp3")
     let Path17 = Bundle.main.bundleURL.appendingPathComponent("人間じゃねぇからだ！.mp3")
-    let Path18 = Bundle.main.bundleURL.appendingPathComponent("今年もおめでたいと思お！.mp3")
-    let Path19 = Bundle.main.bundleURL.appendingPathComponent("")
-    
+    let Path18 = Bundle.main.bundleURL.appendingPathComponent("通報しました.mp3")
+    let Path19 = Bundle.main.bundleURL.appendingPathComponent("震えて眠れよ.mp3")
     
     @IBAction func pushButton(_ sender: UIButton) {
         do{
