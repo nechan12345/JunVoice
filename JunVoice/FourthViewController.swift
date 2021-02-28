@@ -12,7 +12,7 @@ import AVFoundation
 class FourthViewController: BaseViewController {
     let Path0 = Bundle.main.bundleURL.appendingPathComponent("サイコーーーー.mp3")
     let Path1 = Bundle.main.bundleURL.appendingPathComponent("サイコォー.mp3")
-    let Path2 = Bundle.main.bundleURL.appendingPathComponent("でりゃあ.wav")
+    let Path2 = Bundle.main.bundleURL.appendingPathComponent("でりゃあ.mp3")
     let Path3 = Bundle.main.bundleURL.appendingPathComponent("ぞりゃー.mp3")
     let Path4 = Bundle.main.bundleURL.appendingPathComponent("ビヤー！！.mp3")
     let Path5 = Bundle.main.bundleURL.appendingPathComponent("びゃああ、うまいぃ.mp3")
@@ -20,7 +20,7 @@ class FourthViewController: BaseViewController {
     let Path7 = Bundle.main.bundleURL.appendingPathComponent("しゃーーー.mp3")
     let Path8 = Bundle.main.bundleURL.appendingPathComponent("なんてことだぁ！.mp3")
     let Path9 = Bundle.main.bundleURL.appendingPathComponent("なんてことなんだぁ！？.mp3")
-    let Path10 = Bundle.main.bundleURL.appendingPathComponent("あやつじ.wav")
+    let Path10 = Bundle.main.bundleURL.appendingPathComponent("あやつじ.mp3")
     let Path11 = Bundle.main.bundleURL.appendingPathComponent("トリプルアクセル再び.mp3")
     let Path12 = Bundle.main.bundleURL.appendingPathComponent("あぁあぁあーあぁ.mp3")
     let Path13 = Bundle.main.bundleURL.appendingPathComponent("沼叫び声.mp3")
