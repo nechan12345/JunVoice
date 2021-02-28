@@ -10,26 +10,26 @@ import UIKit
 import AVFoundation
 
 class NineViewController: BaseViewController {
-    let Path0 = Bundle.main.bundleURL.appendingPathComponent("クンクン.mp3")
+    let Path0 = Bundle.main.bundleURL.appendingPathComponent("黙っとけお前はバカタレが笑.mp3")
     let Path1 = Bundle.main.bundleURL.appendingPathComponent("匂うねぇ.mp3")
     let Path2 = Bundle.main.bundleURL.appendingPathComponent("テラコッタ.mp3")
     let Path3 = Bundle.main.bundleURL.appendingPathComponent("歩くクレヨン.mp3")
-    let Path4 = Bundle.main.bundleURL.appendingPathComponent("ハーレの音.mp3")
+    let Path4 = Bundle.main.bundleURL.appendingPathComponent("今年もおめでたいと思お！.mp3")
     let Path5 = Bundle.main.bundleURL.appendingPathComponent("はい、はぁい.mp3")
     let Path6 = Bundle.main.bundleURL.appendingPathComponent("間違って入れた？大切な票を！？.mp3")
     let Path7 = Bundle.main.bundleURL.appendingPathComponent("捉えなさい！その獣を.mp3")
-    let Path8 = Bundle.main.bundleURL.appendingPathComponent("あえぎ声.mp3")
-    let Path9 = Bundle.main.bundleURL.appendingPathComponent("クポクポ〜.wav")
+    let Path8 = Bundle.main.bundleURL.appendingPathComponent("ホンデナー.mp3")
+    let Path9 = Bundle.main.bundleURL.appendingPathComponent("ナントカデナー.mp3")
     let Path10 = Bundle.main.bundleURL.appendingPathComponent("かわいー.mp3")
     let Path11 = Bundle.main.bundleURL.appendingPathComponent("あっ、同い年なんだ.mp3")
     let Path12 = Bundle.main.bundleURL.appendingPathComponent("これには加藤もちんまり.mp3")
-    let Path13 = Bundle.main.bundleURL.appendingPathComponent("87053.mp3")
-    let Path14 = Bundle.main.bundleURL.appendingPathComponent("369827.mp3")
+    let Path13 = Bundle.main.bundleURL.appendingPathComponent("ご視聴ありがとうございました。.mp3")
+    let Path14 = Bundle.main.bundleURL.appendingPathComponent("ねもうすちゃんねるマジで.mp3")
     let Path15 = Bundle.main.bundleURL.appendingPathComponent("俺も、まだわからん！.mp3")
     let Path16 = Bundle.main.bundleURL.appendingPathComponent("俺の髭を見ろ.mp3")
     let Path17 = Bundle.main.bundleURL.appendingPathComponent("そうでい.mp3")
     let Path18 = Bundle.main.bundleURL.appendingPathComponent("意外とナゲイー.mp3")
-    let Path19 = Bundle.main.bundleURL.appendingPathComponent("ねもうすちゃんねるマジで.mp3")
+    let Path19 = Bundle.main.bundleURL.appendingPathComponent("")
     
     @IBAction func pushButton(_ sender: UIButton){
         do{
