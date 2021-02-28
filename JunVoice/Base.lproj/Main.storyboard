@@ -787,7 +787,6 @@
                             <button hidden="YES" opaque="NO" tag="17" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="H2w-44-IO6">
                                 <rect key="frame" x="111" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="みんなぁ!?"/>
                                 <connections>
                                     <action selector="pushButton:" destination="0HP-Qt-WJc" eventType="touchUpInside" id="Tzk-Ve-Wip"/>
                                 </connections>
@@ -795,7 +794,6 @@
                             <button hidden="YES" opaque="NO" tag="18" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QdM-iQ-t7n">
                                 <rect key="frame" x="212" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="ファァァ!!"/>
                                 <connections>
                                     <action selector="pushButton:" destination="0HP-Qt-WJc" eventType="touchUpInside" id="KeK-ym-Svs"/>
                                 </connections>
@@ -803,7 +801,6 @@
                             <button hidden="YES" opaque="NO" tag="19" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eDL-04-6mY">
                                 <rect key="frame" x="313" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="だぁぁぁぁ"/>
                                 <connections>
                                     <action selector="pushButton:" destination="0HP-Qt-WJc" eventType="touchUpInside" id="fbc-bT-Hnv"/>
                                 </connections>
@@ -1340,7 +1337,6 @@
                             <button hidden="YES" opaque="NO" tag="15" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rgo-eU-mTe">
                                 <rect key="frame" x="313" y="419.33333333333331" width="91" height="81.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="ざす！"/>
                                 <connections>
                                     <action selector="pushButton:" destination="H0k-y8-KGU" eventType="touchUpInside" id="CXg-oJ-hsL"/>
                                 </connections>
@@ -1348,7 +1344,6 @@
                             <button hidden="YES" opaque="NO" tag="16" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p2x-1k-hTz">
                                 <rect key="frame" x="10" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="ガウ！"/>
                                 <connections>
                                     <action selector="pushButton:" destination="H0k-y8-KGU" eventType="touchUpInside" id="fCs-Wb-CUY"/>
                                 </connections>
@@ -1356,7 +1351,6 @@
                             <button hidden="YES" opaque="NO" tag="17" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="T9Q-gI-UMQ">
                                 <rect key="frame" x="111" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="ガウガウ！"/>
                                 <connections>
                                     <action selector="pushButton:" destination="H0k-y8-KGU" eventType="touchUpInside" id="Kjh-qc-MXj"/>
                                 </connections>
@@ -1371,7 +1365,6 @@
                             <button hidden="YES" opaque="NO" tag="19" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rPT-ra-kfk">
                                 <rect key="frame" x="313" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="ざす！"/>
                                 <connections>
                                     <action selector="pushButton:" destination="H0k-y8-KGU" eventType="touchUpInside" id="dI7-sv-OEp"/>
                                 </connections>
@@ -1642,16 +1635,18 @@
                                     <action selector="PushButton:" destination="Hph-FE-ocR" eventType="touchUpInside" id="EXN-rS-oSk"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="17" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sLq-U1-JIR">
+                            <button opaque="NO" tag="17" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sLq-U1-JIR">
                                 <rect key="frame" x="111" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="まだ一匹"/>
                                 <connections>
                                     <action selector="PushButton:" destination="Hph-FE-ocR" eventType="touchUpInside" id="yHL-8M-7EN"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="18" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k7T-a9-nRp">
+                            <button opaque="NO" tag="18" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k7T-a9-nRp">
                                 <rect key="frame" x="212" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="嘘でしょ!?"/>
                                 <connections>
                                     <action selector="PushButton:" destination="Hph-FE-ocR" eventType="touchUpInside" id="BPh-8F-QAy"/>
                                 </connections>
@@ -3652,16 +3647,18 @@
                                     <action selector="pushButton:" destination="ujO-tE-D4s" eventType="touchUpInside" id="J5P-th-eeI"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="16" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uI0-ef-Ap8">
+                            <button opaque="NO" tag="16" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uI0-ef-Ap8">
                                 <rect key="frame" x="10" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="...!"/>
                                 <connections>
                                     <action selector="pushButton:" destination="ujO-tE-D4s" eventType="touchUpInside" id="MO2-Wr-xMk"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="17" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="per-3S-dFo">
+                            <button opaque="NO" tag="17" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="per-3S-dFo">
                                 <rect key="frame" x="111" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="...!?"/>
                                 <connections>
                                     <action selector="pushButton:" destination="ujO-tE-D4s" eventType="touchUpInside" id="3p8-VW-e8o"/>
                                 </connections>
@@ -4097,7 +4094,7 @@
             </objects>
             <point key="canvasLocation" x="4220" y="-152"/>
         </scene>
-        <!--笑い-->
+        <!--じゃないか！？-->
         <scene sceneID="OgH-ea-WeY">
             <objects>
                 <viewController id="FUr-h1-3LO" customClass="FourteenViewController" customModule="JunVoice" customModuleProvider="target" sceneMemberID="viewController">
@@ -4108,6 +4105,7 @@
                             <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sKd-Fo-dLg">
                                 <rect key="frame" x="111" y="70" width="91" height="81.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="そっちのが"/>
                                 <connections>
                                     <action selector="pushButton:" destination="FUr-h1-3LO" eventType="touchUpInside" id="usQ-P3-mtc"/>
                                 </connections>
@@ -4115,6 +4113,7 @@
                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EfE-Sc-5SL">
                                 <rect key="frame" x="212" y="70" width="91" height="81.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="こういう風に"/>
                                 <connections>
                                     <action selector="pushButton:" destination="FUr-h1-3LO" eventType="touchUpInside" id="wXR-hM-Vyz"/>
                                 </connections>
@@ -4122,27 +4121,31 @@
                             <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MU9-S2-zJb">
                                 <rect key="frame" x="313" y="70" width="91" height="81.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="めちゃくちゃ"/>
                                 <connections>
                                     <action selector="pushButton:" destination="FUr-h1-3LO" eventType="touchUpInside" id="VZv-Pe-kHq"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="orB-mb-HXv">
+                            <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="orB-mb-HXv">
                                 <rect key="frame" x="10" y="186.33333333333334" width="91" height="81.333333333333343"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="それも"/>
                                 <connections>
                                     <action selector="pushButton:" destination="FUr-h1-3LO" eventType="touchUpInside" id="l7K-J8-FAV"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YCq-nE-1eT">
+                            <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YCq-nE-1eT">
                                 <rect key="frame" x="111" y="186.33333333333334" width="91" height="81.333333333333343"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="なんでも"/>
                                 <connections>
                                     <action selector="pushButton:" destination="FUr-h1-3LO" eventType="touchUpInside" id="VPF-xD-XJ6"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IoN-XQ-fW2">
+                            <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IoN-XQ-fW2">
                                 <rect key="frame" x="212" y="186.33333333333334" width="91" height="81.333333333333343"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="別の何かが"/>
                                 <connections>
                                     <action selector="pushButton:" destination="FUr-h1-3LO" eventType="touchUpInside" id="Gei-qt-4C7"/>
                                 </connections>
@@ -4241,6 +4244,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="euY-mZ-vVO">
                                 <rect key="frame" x="10" y="70" width="91" height="81.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="いんじゃない"/>
                                 <connections>
                                     <action selector="pushButton:" destination="FUr-h1-3LO" eventType="touchUpInside" id="rHw-bS-G7S"/>
                                 </connections>
@@ -4338,7 +4342,7 @@
                             <constraint firstItem="dyj-NT-YaT" firstAttribute="width" secondItem="euY-mZ-vVO" secondAttribute="width" id="zhC-zE-Ohl"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="笑い" image="smiley" catalog="system" id="fgN-PK-eCW"/>
+                    <tabBarItem key="tabBarItem" title="じゃないか！？" image="exclamationmark.3" catalog="system" id="fgN-PK-eCW"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outletCollection property="button" destination="euY-mZ-vVO" collectionClass="NSMutableArray" id="Mxc-fB-mN4"/>
@@ -4652,13 +4656,13 @@
         <image name="bubble.right" catalog="system" width="128" height="110"/>
         <image name="cloud.sun.fill" catalog="system" width="128" height="93"/>
         <image name="doc.richtext" catalog="system" width="115" height="128"/>
+        <image name="exclamationmark.3" catalog="system" width="128" height="121"/>
         <image name="flame.fill" catalog="system" width="108" height="128"/>
         <image name="message.fill" catalog="system" width="128" height="113"/>
         <image name="mic.fill" catalog="system" width="108" height="128"/>
         <image name="music.note.list" catalog="system" width="128" height="115"/>
         <image name="play.fill" catalog="system" width="116" height="128"/>
         <image name="plus" catalog="system" width="128" height="113"/>
-        <image name="smiley" catalog="system" width="128" height="121"/>
         <image name="speaker.3.fill" catalog="system" width="128" height="86"/>
         <image name="waveform" catalog="system" width="128" height="128"/>
         <image name="waveform.path" catalog="system" width="128" height="117"/>

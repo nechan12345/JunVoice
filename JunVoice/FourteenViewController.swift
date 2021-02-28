@@ -10,13 +10,13 @@ import UIKit
 import AVFoundation
 
 class FourteenViewController: BaseViewController {
-    let Path0 = Bundle.main.bundleURL.appendingPathComponent("")
-    let Path1 = Bundle.main.bundleURL.appendingPathComponent("")
-    let Path2 = Bundle.main.bundleURL.appendingPathComponent("")
-    let Path3 = Bundle.main.bundleURL.appendingPathComponent("")
-    let Path4 = Bundle.main.bundleURL.appendingPathComponent("")
-    let Path5 = Bundle.main.bundleURL.appendingPathComponent("")
-    let Path6 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path0 = Bundle.main.bundleURL.appendingPathComponent("いんじゃないかぁ！？.mp3")
+    let Path1 = Bundle.main.bundleURL.appendingPathComponent("そっちのがいいんじゃないかぁ！？.mp3")
+    let Path2 = Bundle.main.bundleURL.appendingPathComponent("こういう風にしたらいんじゃないかぁ！？.mp3")
+    let Path3 = Bundle.main.bundleURL.appendingPathComponent("めちゃくちゃいんじゃないかぁ！？.mp3")
+    let Path4 = Bundle.main.bundleURL.appendingPathComponent("それもいんじゃないかぁ！？.mp3")
+    let Path5 = Bundle.main.bundleURL.appendingPathComponent("なんでもいんじゃないかぁ！？.mp3")
+    let Path6 = Bundle.main.bundleURL.appendingPathComponent("別の何かがあるんじゃないかぁ！？.mp3")
     let Path7 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path8 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path9 = Bundle.main.bundleURL.appendingPathComponent("")
