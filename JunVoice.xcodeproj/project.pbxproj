@@ -3,10 +3,11 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1969590FBC627106FD90A321 /* Pods_JunVoice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E0964743317A13B49A447F57 /* Pods_JunVoice.framework */; };
 		F1447A3A2349F568001ACEC3 /* JFAArrowView.m in Sources */ = {isa = PBXBuildFile; fileRef = F1447A362349F568001ACEC3 /* JFAArrowView.m */; };
 		F1447A3B2349F568001ACEC3 /* JFATabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = F1447A392349F568001ACEC3 /* JFATabBarController.m */; };
 		F1447BC6234B7EBF001ACEC3 /* EightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1447BC5234B7EBF001ACEC3 /* EightViewController.swift */; };
@@ -33,6 +34,30 @@
 		F16F3C7022B7CB28005B368D /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16F3C6F22B7CB28005B368D /* ThirdViewController.swift */; };
 		F16F3CE022BBC7FF005B368D /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16F3CDF22BBC7FF005B368D /* FifthViewController.swift */; };
 		F1821575244C793700DFF2C1 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1821574244C793700DFF2C1 /* BaseViewController.swift */; };
+		F19EF88425EB3BB700469CF0 /* FBLPromises.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88325EB3BB700469CF0 /* FBLPromises.framework */; };
+		F19EF88D25EB3BC400469CF0 /* GoogleUtilities.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88C25EB3BC400469CF0 /* GoogleUtilities.framework */; };
+		F19EF89025EB3BC900469CF0 /* nanopb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88F25EB3BC900469CF0 /* nanopb.framework */; };
+		F19EF89325EB3BCF00469CF0 /* Pods_JunVoice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF89225EB3BCF00469CF0 /* Pods_JunVoice.framework */; };
+		F19EF8A425EB3C6A00469CF0 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADBA22C8F34D00074EF6 /* AVFoundation.framework */; };
+		F19EF8A625EB3C7000469CF0 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADB622C8F33E00074EF6 /* AdSupport.framework */; };
+		F19EF8AA25EB3CCA00469CF0 /* FBLPromises.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8A925EB3CCA00469CF0 /* FBLPromises.framework */; };
+		F19EF8AE25EB3CD000469CF0 /* GoogleUtilities.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8AD25EB3CD000469CF0 /* GoogleUtilities.framework */; };
+		F19EF8B125EB3CD300469CF0 /* nanopb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8B025EB3CD300469CF0 /* nanopb.framework */; };
+		F19EF8B425EB3CD700469CF0 /* Pods_JunVoice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8B325EB3CD700469CF0 /* Pods_JunVoice.framework */; };
+		F19EF8BF25EB3D2F00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88625EB3BBB00469CF0 /* GoogleAppMeasurement.xcframework */; };
+		F19EF8C225EB3D3300469CF0 /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88925EB3BBF00469CF0 /* GoogleMobileAds.xcframework */; };
+		F19EF8C425EB3D3600469CF0 /* UserMessagingPlatform.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF89725EB3C0D00469CF0 /* UserMessagingPlatform.xcframework */; };
+		F19EF8C725EB3DA500469CF0 /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88925EB3BBF00469CF0 /* GoogleMobileAds.xcframework */; };
+		F19EF8CB25EB3DA900469CF0 /* FBLPromises.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8CA25EB3DA900469CF0 /* FBLPromises.framework */; };
+		F19EF8CD25EB3DAB00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88625EB3BBB00469CF0 /* GoogleAppMeasurement.xcframework */; };
+		F19EF8D025EB3DAE00469CF0 /* GoogleUtilities.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8CF25EB3DAE00469CF0 /* GoogleUtilities.framework */; };
+		F19EF8D225EB3DB100469CF0 /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88925EB3BBF00469CF0 /* GoogleMobileAds.xcframework */; };
+		F19EF8D425EB3DB400469CF0 /* nanopb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8D325EB3DB400469CF0 /* nanopb.framework */; };
+		F19EF8D725EB3DB600469CF0 /* Pods_JunVoice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8D625EB3DB600469CF0 /* Pods_JunVoice.framework */; };
+		F19EF8D925EB3DB800469CF0 /* UserMessagingPlatform.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF89725EB3C0D00469CF0 /* UserMessagingPlatform.xcframework */; };
+		F19EF8DB25EB3DBB00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88625EB3BBB00469CF0 /* GoogleAppMeasurement.xcframework */; };
+		F19EF8DC25EB3DBE00469CF0 /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88925EB3BBF00469CF0 /* GoogleMobileAds.xcframework */; };
+		F19EF8DD25EB3DC000469CF0 /* UserMessagingPlatform.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF89725EB3C0D00469CF0 /* UserMessagingPlatform.xcframework */; };
 		F1A71DDE243069E4004ABEF2 /* TenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A71DDD243069E4004ABEF2 /* TenViewController.swift */; };
 		F1A71DE024306A33004ABEF2 /* ElevenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A71DDF24306A33004ABEF2 /* ElevenViewController.swift */; };
 		F1A71DE224306A54004ABEF2 /* TwelveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A71DE124306A54004ABEF2 /* TwelveViewController.swift */; };
@@ -261,9 +286,7 @@
 		F1E953FA245C1152003A6E06 /* FourteenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E953F9245C1152003A6E06 /* FourteenViewController.swift */; };
 		F1E953FC245C116D003A6E06 /* FifteenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E953FB245C116D003A6E06 /* FifteenViewController.swift */; };
 		F1E953FE245C27E4003A6E06 /* SixteenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E953FD245C27E4003A6E06 /* SixteenViewController.swift */; };
-		F1ECADB722C8F33E00074EF6 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADB622C8F33E00074EF6 /* AdSupport.framework */; };
 		F1ECADB922C8F34500074EF6 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADB822C8F34400074EF6 /* AudioToolbox.framework */; };
-		F1ECADBB22C8F34D00074EF6 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADBA22C8F34D00074EF6 /* AVFoundation.framework */; };
 		F1ECADC322C8F39A00074EF6 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADBC22C8F39900074EF6 /* MessageUI.framework */; };
 		F1ECADC422C8F39A00074EF6 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADBD22C8F39A00074EF6 /* StoreKit.framework */; };
 		F1ECADC522C8F39A00074EF6 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADBE22C8F39A00074EF6 /* SystemConfiguration.framework */; settings = {ATTRIBUTES = (Required, ); }; };
@@ -272,27 +295,13 @@
 		F1ECADC822C8F39A00074EF6 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADC122C8F39A00074EF6 /* CoreMedia.framework */; };
 		F1ECADC922C8F39A00074EF6 /* EventKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADC222C8F39A00074EF6 /* EventKit.framework */; };
 		F1ECADCD22CB7CFB00074EF6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADCC22CB7CFA00074EF6 /* CoreGraphics.framework */; };
-		F1ECADDA22CCC9FA00074EF6 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADD622CCC9FA00074EF6 /* GoogleMobileAds.framework */; };
-		F1ECADDB22CCC9FA00074EF6 /* GoogleUtilities.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADD722CCC9FA00074EF6 /* GoogleUtilities.framework */; };
-		F1ECADDC22CCC9FA00074EF6 /* nanopb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADD822CCC9FA00074EF6 /* nanopb.framework */; };
-		F1ECADDD22CCC9FA00074EF6 /* GoogleAppMeasurement.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADD922CCC9FA00074EF6 /* GoogleAppMeasurement.framework */; };
 		F1FC16DA22E8886D007598DA /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1FC16D922E8886D007598DA /* FourthViewController.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXCopyFilesBuildPhase section */
-		F1ECADD522CB817900074EF6 /* Embed Frameworks */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-			);
-			name = "Embed Frameworks";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
-
 /* Begin PBXFileReference section */
+		8085382E0486F907DD8E6D85 /* Pods-JunVoice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JunVoice.release.xcconfig"; path = "Target Support Files/Pods-JunVoice/Pods-JunVoice.release.xcconfig"; sourceTree = "<group>"; };
+		9878DFA572DFA4B705A53248 /* Pods-JunVoice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JunVoice.debug.xcconfig"; path = "Target Support Files/Pods-JunVoice/Pods-JunVoice.debug.xcconfig"; sourceTree = "<group>"; };
+		E0964743317A13B49A447F57 /* Pods_JunVoice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JunVoice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1447A362349F568001ACEC3 /* JFAArrowView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JFAArrowView.m; sourceTree = "<group>"; };
 		F1447A372349F568001ACEC3 /* JFATabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JFATabBarController.h; sourceTree = "<group>"; };
 		F1447A382349F568001ACEC3 /* JFAArrowView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JFAArrowView.h; sourceTree = "<group>"; };
@@ -323,6 +332,22 @@
 		F16F3C6F22B7CB28005B368D /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		F16F3CDF22BBC7FF005B368D /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
 		F1821574244C793700DFF2C1 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		F19EF88325EB3BB700469CF0 /* FBLPromises.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = FBLPromises.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF88625EB3BBB00469CF0 /* GoogleAppMeasurement.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = GoogleAppMeasurement.xcframework; path = Pods/GoogleAppMeasurement/Frameworks/GoogleAppMeasurement.xcframework; sourceTree = "<group>"; };
+		F19EF88925EB3BBF00469CF0 /* GoogleMobileAds.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = GoogleMobileAds.xcframework; path = "Pods/Google-Mobile-Ads-SDK/Frameworks/GoogleMobileAdsFramework-Current/GoogleMobileAds.xcframework"; sourceTree = "<group>"; };
+		F19EF88C25EB3BC400469CF0 /* GoogleUtilities.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = GoogleUtilities.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF88F25EB3BC900469CF0 /* nanopb.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = nanopb.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF89225EB3BCF00469CF0 /* Pods_JunVoice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Pods_JunVoice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF89725EB3C0D00469CF0 /* UserMessagingPlatform.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = UserMessagingPlatform.xcframework; path = Pods/GoogleUserMessagingPlatform/Frameworks/Release/UserMessagingPlatform.xcframework; sourceTree = "<group>"; };
+		F19EF8A125EB3C5C00469CF0 /* GoogleUtilities.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = GoogleUtilities.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF8A925EB3CCA00469CF0 /* FBLPromises.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = FBLPromises.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF8AD25EB3CD000469CF0 /* GoogleUtilities.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = GoogleUtilities.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF8B025EB3CD300469CF0 /* nanopb.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = nanopb.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF8B325EB3CD700469CF0 /* Pods_JunVoice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Pods_JunVoice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF8CA25EB3DA900469CF0 /* FBLPromises.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = FBLPromises.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF8CF25EB3DAE00469CF0 /* GoogleUtilities.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = GoogleUtilities.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF8D325EB3DB400469CF0 /* nanopb.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = nanopb.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F19EF8D625EB3DB600469CF0 /* Pods_JunVoice.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Pods_JunVoice.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1A71DDD243069E4004ABEF2 /* TenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TenViewController.swift; sourceTree = "<group>"; };
 		F1A71DDF24306A33004ABEF2 /* ElevenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElevenViewController.swift; sourceTree = "<group>"; };
 		F1A71DE124306A54004ABEF2 /* TwelveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwelveViewController.swift; sourceTree = "<group>"; };
@@ -562,10 +587,6 @@
 		F1ECADC122C8F39A00074EF6 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
 		F1ECADC222C8F39A00074EF6 /* EventKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EventKit.framework; path = System/Library/Frameworks/EventKit.framework; sourceTree = SDKROOT; };
 		F1ECADCC22CB7CFA00074EF6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		F1ECADD622CCC9FA00074EF6 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
-		F1ECADD722CCC9FA00074EF6 /* GoogleUtilities.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleUtilities.framework; sourceTree = "<group>"; };
-		F1ECADD822CCC9FA00074EF6 /* nanopb.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = nanopb.framework; sourceTree = "<group>"; };
-		F1ECADD922CCC9FA00074EF6 /* GoogleAppMeasurement.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleAppMeasurement.framework; sourceTree = "<group>"; };
 		F1FC16D922E8886D007598DA /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -574,27 +595,55 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F19EF8B125EB3CD300469CF0 /* nanopb.framework in Frameworks */,
+				F19EF8AE25EB3CD000469CF0 /* GoogleUtilities.framework in Frameworks */,
 				F1ECADCD22CB7CFB00074EF6 /* CoreGraphics.framework in Frameworks */,
-				F1ECADB722C8F33E00074EF6 /* AdSupport.framework in Frameworks */,
-				F1ECADDD22CCC9FA00074EF6 /* GoogleAppMeasurement.framework in Frameworks */,
+				F19EF8D225EB3DB100469CF0 /* GoogleMobileAds.xcframework in Frameworks */,
+				F19EF89025EB3BC900469CF0 /* nanopb.framework in Frameworks */,
+				F19EF8D725EB3DB600469CF0 /* Pods_JunVoice.framework in Frameworks */,
+				F19EF8CB25EB3DA900469CF0 /* FBLPromises.framework in Frameworks */,
+				F19EF8DC25EB3DBE00469CF0 /* GoogleMobileAds.xcframework in Frameworks */,
+				F19EF89325EB3BCF00469CF0 /* Pods_JunVoice.framework in Frameworks */,
+				F19EF8C425EB3D3600469CF0 /* UserMessagingPlatform.xcframework in Frameworks */,
+				F19EF88425EB3BB700469CF0 /* FBLPromises.framework in Frameworks */,
+				F19EF8C725EB3DA500469CF0 /* GoogleMobileAds.xcframework in Frameworks */,
 				F1ECADC322C8F39A00074EF6 /* MessageUI.framework in Frameworks */,
+				F19EF8C225EB3D3300469CF0 /* GoogleMobileAds.xcframework in Frameworks */,
+				F19EF8BF25EB3D2F00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */,
+				F19EF8AA25EB3CCA00469CF0 /* FBLPromises.framework in Frameworks */,
 				F1ECADC422C8F39A00074EF6 /* StoreKit.framework in Frameworks */,
 				F1ECADC522C8F39A00074EF6 /* SystemConfiguration.framework in Frameworks */,
+				F19EF8DD25EB3DC000469CF0 /* UserMessagingPlatform.xcframework in Frameworks */,
 				F1ECADC622C8F39A00074EF6 /* CoreTelephony.framework in Frameworks */,
-				F1ECADDA22CCC9FA00074EF6 /* GoogleMobileAds.framework in Frameworks */,
+				F19EF8CD25EB3DAB00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */,
 				F1ECADC722C8F39A00074EF6 /* EventKitUI.framework in Frameworks */,
+				F19EF8D025EB3DAE00469CF0 /* GoogleUtilities.framework in Frameworks */,
 				F1ECADC822C8F39A00074EF6 /* CoreMedia.framework in Frameworks */,
+				F19EF8DB25EB3DBB00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */,
+				F19EF8A425EB3C6A00469CF0 /* AVFoundation.framework in Frameworks */,
 				F1ECADC922C8F39A00074EF6 /* EventKit.framework in Frameworks */,
-				F1ECADDC22CCC9FA00074EF6 /* nanopb.framework in Frameworks */,
-				F1ECADBB22C8F34D00074EF6 /* AVFoundation.framework in Frameworks */,
-				F1ECADDB22CCC9FA00074EF6 /* GoogleUtilities.framework in Frameworks */,
+				F19EF8B425EB3CD700469CF0 /* Pods_JunVoice.framework in Frameworks */,
 				F1ECADB922C8F34500074EF6 /* AudioToolbox.framework in Frameworks */,
+				F19EF8D925EB3DB800469CF0 /* UserMessagingPlatform.xcframework in Frameworks */,
+				F19EF8A625EB3C7000469CF0 /* AdSupport.framework in Frameworks */,
+				F19EF88D25EB3BC400469CF0 /* GoogleUtilities.framework in Frameworks */,
+				F19EF8D425EB3DB400469CF0 /* nanopb.framework in Frameworks */,
+				1969590FBC627106FD90A321 /* Pods_JunVoice.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		038002854B49C4C88A53CC89 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9878DFA572DFA4B705A53248 /* Pods-JunVoice.debug.xcconfig */,
+				8085382E0486F907DD8E6D85 /* Pods-JunVoice.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		F1447A352349F568001ACEC3 /* JFATabBarController */ = {
 			isa = PBXGroup;
 			children = (
@@ -609,14 +658,11 @@
 		F16F3C1822B67522005B368D = {
 			isa = PBXGroup;
 			children = (
-				F1ECADD822CCC9FA00074EF6 /* nanopb.framework */,
-				F1ECADD922CCC9FA00074EF6 /* GoogleAppMeasurement.framework */,
-				F1ECADD622CCC9FA00074EF6 /* GoogleMobileAds.framework */,
-				F1ECADD722CCC9FA00074EF6 /* GoogleUtilities.framework */,
 				F16F3C2322B67522005B368D /* JunVoice */,
 				F16F3C2222B67522005B368D /* Products */,
 				F1447A352349F568001ACEC3 /* JFATabBarController */,
 				F1ECADB522C8F33D00074EF6 /* Frameworks */,
+				038002854B49C4C88A53CC89 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -1188,6 +1234,22 @@
 		F1ECADB522C8F33D00074EF6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				F19EF8D625EB3DB600469CF0 /* Pods_JunVoice.framework */,
+				F19EF8D325EB3DB400469CF0 /* nanopb.framework */,
+				F19EF8CF25EB3DAE00469CF0 /* GoogleUtilities.framework */,
+				F19EF8CA25EB3DA900469CF0 /* FBLPromises.framework */,
+				F19EF8B325EB3CD700469CF0 /* Pods_JunVoice.framework */,
+				F19EF8B025EB3CD300469CF0 /* nanopb.framework */,
+				F19EF8AD25EB3CD000469CF0 /* GoogleUtilities.framework */,
+				F19EF8A925EB3CCA00469CF0 /* FBLPromises.framework */,
+				F19EF8A125EB3C5C00469CF0 /* GoogleUtilities.framework */,
+				F19EF89725EB3C0D00469CF0 /* UserMessagingPlatform.xcframework */,
+				F19EF89225EB3BCF00469CF0 /* Pods_JunVoice.framework */,
+				F19EF88F25EB3BC900469CF0 /* nanopb.framework */,
+				F19EF88C25EB3BC400469CF0 /* GoogleUtilities.framework */,
+				F19EF88925EB3BBF00469CF0 /* GoogleMobileAds.xcframework */,
+				F19EF88625EB3BBB00469CF0 /* GoogleAppMeasurement.xcframework */,
+				F19EF88325EB3BB700469CF0 /* FBLPromises.framework */,
 				F1ECADCC22CB7CFA00074EF6 /* CoreGraphics.framework */,
 				F1ECADC122C8F39A00074EF6 /* CoreMedia.framework */,
 				F1ECADBF22C8F39A00074EF6 /* CoreTelephony.framework */,
@@ -1199,6 +1261,7 @@
 				F1ECADBA22C8F34D00074EF6 /* AVFoundation.framework */,
 				F1ECADB822C8F34400074EF6 /* AudioToolbox.framework */,
 				F1ECADB622C8F33E00074EF6 /* AdSupport.framework */,
+				E0964743317A13B49A447F57 /* Pods_JunVoice.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1210,10 +1273,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F16F3C3522B67523005B368D /* Build configuration list for PBXNativeTarget "JunVoice" */;
 			buildPhases = (
+				EB1E6956C35948815D1298C6 /* [CP] Check Pods Manifest.lock */,
 				F16F3C1D22B67522005B368D /* Sources */,
 				F16F3C1E22B67522005B368D /* Frameworks */,
 				F16F3C1F22B67522005B368D /* Resources */,
-				F1ECADD522CB817900074EF6 /* Embed Frameworks */,
+				4CA0DB72747433E6F7FEB25E /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -1502,6 +1566,48 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		4CA0DB72747433E6F7FEB25E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-JunVoice/Pods-JunVoice-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-JunVoice/Pods-JunVoice-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-JunVoice/Pods-JunVoice-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EB1E6956C35948815D1298C6 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-JunVoice-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		F16F3C1D22B67522005B368D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -1604,7 +1710,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -1660,7 +1766,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -1673,6 +1779,7 @@
 		};
 		F16F3C3622B67523005B368D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9878DFA572DFA4B705A53248 /* Pods-JunVoice.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
@@ -1685,7 +1792,7 @@
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = JunVoice/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1702,6 +1809,7 @@
 		};
 		F16F3C3722B67523005B368D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8085382E0486F907DD8E6D85 /* Pods-JunVoice.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
@@ -1714,7 +1822,7 @@
 					"$(PROJECT_DIR)",
 				);
 				INFOPLIST_FILE = JunVoice/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
