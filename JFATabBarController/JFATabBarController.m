@@ -16,6 +16,8 @@
 @property (strong, nonatomic) NSMutableArray *tabButtons;
 @property (strong, nonatomic) UIScrollView *barView;
 @property (nonatomic) CGFloat tabBarHeight;
+@property (nonatomic) CGFloat plusHeight;
+@property (nonatomic) CGRect screenSize;
 @property (strong, nonatomic) JFAArrowView *leftArrowView;
 @property (strong, nonatomic) JFAArrowView *rightArrowView;
 @property(nonatomic, strong) GADBannerView *bannerView;
@@ -109,7 +111,15 @@ static const CGFloat IPHONE_SIMULATOR_HEIGHT = 480;
 {
     if (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone)
     {
-        return IPHONE_TAB_BAR_HEIGHT;
+        // 画面サイズ取得
+        _screenSize = [[UIScreen mainScreen] bounds];
+        
+        // 画面縦幅812ポイント以上機種(iPhoneSEを除くiPhoneX以降)
+        if(_screenSize.size.height >= 812){
+            //TabBarの高さを増加
+            //_plusHeight = 30;
+        }
+        return IPHONE_TAB_BAR_HEIGHT + _plusHeight;
     }
     else
     {
