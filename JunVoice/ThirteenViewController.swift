@@ -16,7 +16,7 @@ class ThirteenViewController: BaseViewController {
     let Path3 = Bundle.main.bundleURL.appendingPathComponent("ハーハーヒーヒー！.mp3")
     let Path4 = Bundle.main.bundleURL.appendingPathComponent("ドrrrrrrリン！.mp3")
     let Path5 = Bundle.main.bundleURL.appendingPathComponent("フヒフー.mp3")
-    let Path6 = Bundle.main.bundleURL.appendingPathComponent("クポクポ〜.wav")
+    let Path6 = Bundle.main.bundleURL.appendingPathComponent("クポクポ〜.mp3")
     let Path7 = Bundle.main.bundleURL.appendingPathComponent("クンクン.mp3")
     let Path8 = Bundle.main.bundleURL.appendingPathComponent("87053.mp3")
     let Path9 = Bundle.main.bundleURL.appendingPathComponent("369827.mp3")

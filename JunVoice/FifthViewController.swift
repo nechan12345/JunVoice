@@ -10,14 +10,14 @@ import UIKit
 import AVFoundation
 
 class FifthViewController: BaseViewController  {
-    let Path0 = Bundle.main.bundleURL.appendingPathComponent("やるお.wav")
+    let Path0 = Bundle.main.bundleURL.appendingPathComponent("やるお.mp3")
     let Path1 = Bundle.main.bundleURL.appendingPathComponent("ぃやるぅお↓↑.mp3")
     let Path2 = Bundle.main.bundleURL.appendingPathComponent("やるお（全盛期）.mp3")
     let Path3 = Bundle.main.bundleURL.appendingPathComponent("やりますぅ！.mp3")
     let Path4 = Bundle.main.bundleURL.appendingPathComponent("やったおー.mp3")
     let Path5 = Bundle.main.bundleURL.appendingPathComponent("やらないおー.mp3")
-    let Path6 = Bundle.main.bundleURL.appendingPathComponent("はい.wav")
-    let Path7 = Bundle.main.bundleURL.appendingPathComponent("ぱあ.wav")
+    let Path6 = Bundle.main.bundleURL.appendingPathComponent("はい.mp3")
+    let Path7 = Bundle.main.bundleURL.appendingPathComponent("ぱあ.mp3")
     let Path8 = Bundle.main.bundleURL.appendingPathComponent("ざす！.mp3")
     let Path9 = Bundle.main.bundleURL.appendingPathComponent("ガウ！.mp3")
     let Path10 = Bundle.main.bundleURL.appendingPathComponent("ガウガウガウ.mp3")

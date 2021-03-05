@@ -117,7 +117,7 @@ static const CGFloat IPHONE_SIMULATOR_HEIGHT = 480;
         // 画面縦幅812ポイント以上機種(iPhoneSEを除くiPhoneX以降)
         if(_screenSize.size.height >= 812){
             //TabBarの高さを増加
-            //_plusHeight = 30;
+            _plusHeight = 30;
         }
         return IPHONE_TAB_BAR_HEIGHT + _plusHeight;
     }

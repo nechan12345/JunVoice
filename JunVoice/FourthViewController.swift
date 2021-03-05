@@ -28,8 +28,8 @@ class FourthViewController: BaseViewController {
     let Path15 = Bundle.main.bundleURL.appendingPathComponent("晴れたあああああ.mp3")
     let Path16 = Bundle.main.bundleURL.appendingPathComponent("まんじゅう短.mp3")
     let Path17 = Bundle.main.bundleURL.appendingPathComponent("まんじゅう長.mp3")
-    let Path18 = Bundle.main.bundleURL.appendingPathComponent("")
-    let Path19 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path18 = Bundle.main.bundleURL.appendingPathComponent("最近だらしねぇな！？.mp3")
+    let Path19 = Bundle.main.bundleURL.appendingPathComponent("あ！？.mp3")
     
     @IBAction func pushButton(_ sender: UIButton) {
         do{

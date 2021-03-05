@@ -1071,16 +1071,18 @@
                                     <action selector="pushButton:" destination="qiR-3N-1l5" eventType="touchUpInside" id="A8D-6a-bGl"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="18" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hfy-uB-yvD">
+                            <button opaque="NO" tag="18" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hfy-uB-yvD">
                                 <rect key="frame" x="212" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="最近ﾀﾞﾗｼﾈｪﾅ!?"/>
                                 <connections>
                                     <action selector="pushButton:" destination="qiR-3N-1l5" eventType="touchUpInside" id="IlE-fp-m8b"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="19" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b8Q-W0-Me8">
+                            <button opaque="NO" tag="19" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="b8Q-W0-Me8">
                                 <rect key="frame" x="313" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="アァ!?"/>
                                 <connections>
                                     <action selector="pushButton:" destination="qiR-3N-1l5" eventType="touchUpInside" id="AIi-8z-uTq"/>
                                 </connections>
