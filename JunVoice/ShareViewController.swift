@@ -81,7 +81,7 @@ class ShareViewController: BaseViewController {
     //ツイート機能
     func shareOnTwitter(tweetText: String) {
         //シェアするテキストを作成
-        let url = "https://apple.co/2QsVrCw"
+        let url = "https://itunes.apple.com/app/id1470810534"
         let hashTag = "#加藤純一"
         let completedText = tweetText + "\n" + url + "\n" + hashTag
 
