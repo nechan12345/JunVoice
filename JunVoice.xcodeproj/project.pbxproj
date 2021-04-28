@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1969590FBC627106FD90A321 /* Pods_JunVoice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E0964743317A13B49A447F57 /* Pods_JunVoice.framework */; };
 		F1447A3A2349F568001ACEC3 /* JFAArrowView.m in Sources */ = {isa = PBXBuildFile; fileRef = F1447A362349F568001ACEC3 /* JFAArrowView.m */; };
 		F1447A3B2349F568001ACEC3 /* JFATabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = F1447A392349F568001ACEC3 /* JFATabBarController.m */; };
 		F1447BC6234B7EBF001ACEC3 /* EightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1447BC5234B7EBF001ACEC3 /* EightViewController.swift */; };
@@ -305,27 +304,18 @@
 		F19EF88425EB3BB700469CF0 /* FBLPromises.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88325EB3BB700469CF0 /* FBLPromises.framework */; };
 		F19EF88D25EB3BC400469CF0 /* GoogleUtilities.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88C25EB3BC400469CF0 /* GoogleUtilities.framework */; };
 		F19EF89025EB3BC900469CF0 /* nanopb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88F25EB3BC900469CF0 /* nanopb.framework */; };
-		F19EF89325EB3BCF00469CF0 /* Pods_JunVoice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF89225EB3BCF00469CF0 /* Pods_JunVoice.framework */; };
 		F19EF8A425EB3C6A00469CF0 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADBA22C8F34D00074EF6 /* AVFoundation.framework */; };
 		F19EF8A625EB3C7000469CF0 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1ECADB622C8F33E00074EF6 /* AdSupport.framework */; };
 		F19EF8AA25EB3CCA00469CF0 /* FBLPromises.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8A925EB3CCA00469CF0 /* FBLPromises.framework */; };
 		F19EF8AE25EB3CD000469CF0 /* GoogleUtilities.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8AD25EB3CD000469CF0 /* GoogleUtilities.framework */; };
 		F19EF8B125EB3CD300469CF0 /* nanopb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8B025EB3CD300469CF0 /* nanopb.framework */; };
-		F19EF8B425EB3CD700469CF0 /* Pods_JunVoice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8B325EB3CD700469CF0 /* Pods_JunVoice.framework */; };
 		F19EF8BF25EB3D2F00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88625EB3BBB00469CF0 /* GoogleAppMeasurement.xcframework */; };
-		F19EF8C225EB3D3300469CF0 /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88925EB3BBF00469CF0 /* GoogleMobileAds.xcframework */; };
 		F19EF8C425EB3D3600469CF0 /* UserMessagingPlatform.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF89725EB3C0D00469CF0 /* UserMessagingPlatform.xcframework */; };
-		F19EF8C725EB3DA500469CF0 /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88925EB3BBF00469CF0 /* GoogleMobileAds.xcframework */; };
 		F19EF8CB25EB3DA900469CF0 /* FBLPromises.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8CA25EB3DA900469CF0 /* FBLPromises.framework */; };
-		F19EF8CD25EB3DAB00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88625EB3BBB00469CF0 /* GoogleAppMeasurement.xcframework */; };
 		F19EF8D025EB3DAE00469CF0 /* GoogleUtilities.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8CF25EB3DAE00469CF0 /* GoogleUtilities.framework */; };
 		F19EF8D225EB3DB100469CF0 /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88925EB3BBF00469CF0 /* GoogleMobileAds.xcframework */; };
 		F19EF8D425EB3DB400469CF0 /* nanopb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8D325EB3DB400469CF0 /* nanopb.framework */; };
 		F19EF8D725EB3DB600469CF0 /* Pods_JunVoice.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF8D625EB3DB600469CF0 /* Pods_JunVoice.framework */; };
-		F19EF8D925EB3DB800469CF0 /* UserMessagingPlatform.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF89725EB3C0D00469CF0 /* UserMessagingPlatform.xcframework */; };
-		F19EF8DB25EB3DBB00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88625EB3BBB00469CF0 /* GoogleAppMeasurement.xcframework */; };
-		F19EF8DC25EB3DBE00469CF0 /* GoogleMobileAds.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF88925EB3BBF00469CF0 /* GoogleMobileAds.xcframework */; };
-		F19EF8DD25EB3DC000469CF0 /* UserMessagingPlatform.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = F19EF89725EB3C0D00469CF0 /* UserMessagingPlatform.xcframework */; };
 		F1A71DDE243069E4004ABEF2 /* TenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A71DDD243069E4004ABEF2 /* TenViewController.swift */; };
 		F1A71DE024306A33004ABEF2 /* ElevenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A71DDF24306A33004ABEF2 /* ElevenViewController.swift */; };
 		F1A71DE224306A54004ABEF2 /* TwelveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A71DE124306A54004ABEF2 /* TwelveViewController.swift */; };
@@ -702,33 +692,23 @@
 				F19EF89025EB3BC900469CF0 /* nanopb.framework in Frameworks */,
 				F19EF8D725EB3DB600469CF0 /* Pods_JunVoice.framework in Frameworks */,
 				F19EF8CB25EB3DA900469CF0 /* FBLPromises.framework in Frameworks */,
-				F19EF8DC25EB3DBE00469CF0 /* GoogleMobileAds.xcframework in Frameworks */,
-				F19EF89325EB3BCF00469CF0 /* Pods_JunVoice.framework in Frameworks */,
 				F19EF8C425EB3D3600469CF0 /* UserMessagingPlatform.xcframework in Frameworks */,
 				F19EF88425EB3BB700469CF0 /* FBLPromises.framework in Frameworks */,
-				F19EF8C725EB3DA500469CF0 /* GoogleMobileAds.xcframework in Frameworks */,
 				F1ECADC322C8F39A00074EF6 /* MessageUI.framework in Frameworks */,
-				F19EF8C225EB3D3300469CF0 /* GoogleMobileAds.xcframework in Frameworks */,
 				F19EF8BF25EB3D2F00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */,
 				F19EF8AA25EB3CCA00469CF0 /* FBLPromises.framework in Frameworks */,
 				F1ECADC422C8F39A00074EF6 /* StoreKit.framework in Frameworks */,
 				F1ECADC522C8F39A00074EF6 /* SystemConfiguration.framework in Frameworks */,
-				F19EF8DD25EB3DC000469CF0 /* UserMessagingPlatform.xcframework in Frameworks */,
 				F1ECADC622C8F39A00074EF6 /* CoreTelephony.framework in Frameworks */,
-				F19EF8CD25EB3DAB00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */,
 				F1ECADC722C8F39A00074EF6 /* EventKitUI.framework in Frameworks */,
 				F19EF8D025EB3DAE00469CF0 /* GoogleUtilities.framework in Frameworks */,
 				F1ECADC822C8F39A00074EF6 /* CoreMedia.framework in Frameworks */,
-				F19EF8DB25EB3DBB00469CF0 /* GoogleAppMeasurement.xcframework in Frameworks */,
 				F19EF8A425EB3C6A00469CF0 /* AVFoundation.framework in Frameworks */,
 				F1ECADC922C8F39A00074EF6 /* EventKit.framework in Frameworks */,
-				F19EF8B425EB3CD700469CF0 /* Pods_JunVoice.framework in Frameworks */,
 				F1ECADB922C8F34500074EF6 /* AudioToolbox.framework in Frameworks */,
-				F19EF8D925EB3DB800469CF0 /* UserMessagingPlatform.xcframework in Frameworks */,
 				F19EF8A625EB3C7000469CF0 /* AdSupport.framework in Frameworks */,
 				F19EF88D25EB3BC400469CF0 /* GoogleUtilities.framework in Frameworks */,
 				F19EF8D425EB3DB400469CF0 /* nanopb.framework in Frameworks */,
-				1969590FBC627106FD90A321 /* Pods_JunVoice.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1485,7 +1465,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1020;
-				LastUpgradeCheck = 1230;
+				LastUpgradeCheck = 1240;
 				ORGANIZATIONNAME = Nechan;
 				TargetAttributes = {
 					F16F3C2022B67522005B368D = {
@@ -2037,7 +2017,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 4.0.0;
+				MARKETING_VERSION = 4.0.1;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hoge.Voice.Junichi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -2067,7 +2047,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 4.0.0;
+				MARKETING_VERSION = 4.0.1;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hoge.Voice.Junichi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
