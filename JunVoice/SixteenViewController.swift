@@ -18,7 +18,7 @@ class SixteenViewController: BaseViewController {
     let Path5 = Bundle.main.bundleURL.appendingPathComponent("ありがとー、よかったな.mp3")
     let Path6 = Bundle.main.bundleURL.appendingPathComponent("ありがとー、よかったなロングバージョン.mp3")
     let Path7 = Bundle.main.bundleURL.appendingPathComponent("頑張れサッカー２.mp3")
-    let Path8 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path8 = Bundle.main.bundleURL.appendingPathComponent("ホモレモン.mp3")
     let Path9 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path10 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path11 = Bundle.main.bundleURL.appendingPathComponent("")

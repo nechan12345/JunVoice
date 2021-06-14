@@ -1,37 +1,37 @@
 //
-//  FifthViewController.swift
+//  EightteenViewController.swift
 //  JunVoice
 //
-//  Created by Nechan on 2019/06/20.
-//  Copyright © 2019 Nechan. All rights reserved.
+//  Created by 根津拓真 on 2021/05/31.
+//  Copyright © 2021 Nechan. All rights reserved.
 //
 
 import UIKit
 import AVFoundation
 
-class SevenViewController: BaseViewController {
-    let Path0 = Bundle.main.bundleURL.appendingPathComponent("アーイディディッ！.mp3")
-    let Path1 = Bundle.main.bundleURL.appendingPathComponent("ジュニチオケイ！.mp3")
-    let Path2 = Bundle.main.bundleURL.appendingPathComponent("ケンニアナンバーワン.mp3")
-    let Path3 = Bundle.main.bundleURL.appendingPathComponent("ケニアナンバー.mp3")
-    let Path4 = Bundle.main.bundleURL.appendingPathComponent("ソーリーメーン.mp3")
-    let Path5 = Bundle.main.bundleURL.appendingPathComponent("丁寧なサイン.mp3")
-    let Path6 = Bundle.main.bundleURL.appendingPathComponent("センキューソーマッチ！.mp3")
-    let Path7 = Bundle.main.bundleURL.appendingPathComponent("ノーセンキュー.mp3")
-    let Path8 = Bundle.main.bundleURL.appendingPathComponent("ノープログレム.mp3")
-    let Path9 = Bundle.main.bundleURL.appendingPathComponent("Yeah！マイフレンド！Hey!.mp3")
-    let Path10 = Bundle.main.bundleURL.appendingPathComponent("OK?.mp3")
-    let Path11 = Bundle.main.bundleURL.appendingPathComponent("NoNoNo.mp3")
-    let Path12 = Bundle.main.bundleURL.appendingPathComponent("Yeah!.mp3")
-    let Path13 = Bundle.main.bundleURL.appendingPathComponent("yeah.mp3")
-    let Path14 = Bundle.main.bundleURL.appendingPathComponent("Can you speak Japanese?.mp3")
-    let Path15 = Bundle.main.bundleURL.appendingPathComponent("I'm sushi.mp3")
-    let Path16 = Bundle.main.bundleURL.appendingPathComponent("シャラップ.mp3")
-    let Path17 = Bundle.main.bundleURL.appendingPathComponent("ゲラウェイ.mp3")
-    let Path18 = Bundle.main.bundleURL.appendingPathComponent("アイラブユ.mp3")
+class EightteenViewController: BaseViewController {
+    let Path0 = Bundle.main.bundleURL.appendingPathComponent("俺のターンドロー.mp3")
+    let Path1 = Bundle.main.bundleURL.appendingPathComponent("バトルフェイズ.mp3")
+    let Path2 = Bundle.main.bundleURL.appendingPathComponent("うわあああ.mp3")
+    let Path3 = Bundle.main.bundleURL.appendingPathComponent("まだ終わってないんだぁ！.mp3")
+    let Path4 = Bundle.main.bundleURL.appendingPathComponent("ターンエンドだ！.mp3")
+    let Path5 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path6 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path7 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path8 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path9 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path10 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path11 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path12 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path13 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path14 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path15 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path16 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path17 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path18 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path19 = Bundle.main.bundleURL.appendingPathComponent("")
-    
-    @IBAction func PushButton(_ sender: UIButton) {
+     
+    @IBAction func pushButton(_ sender: UIButton){
         do{
             switch sender.tag {
             case 0:
@@ -94,13 +94,13 @@ class SevenViewController: BaseViewController {
             case 19:
                 Player = try AVAudioPlayer(contentsOf: Path19)
                 break
-            default:     print("設定されていないボタンが押されましたa")
+            default:     print("設定されていないボタンが押されました")
                 break
             }
             Player.play()
         }catch{
-            print("error")
+           print("error")
         }
     }
-}
 
+}

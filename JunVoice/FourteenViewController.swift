@@ -22,7 +22,7 @@ class FourteenViewController: BaseViewController {
     let Path9 = Bundle.main.bundleURL.appendingPathComponent("分かってきたんじゃないかぁ！？.mp3")
     let Path10 = Bundle.main.bundleURL.appendingPathComponent("流れが来たんじゃないかぁ！？.mp3")
     let Path11 = Bundle.main.bundleURL.appendingPathComponent("足が速くなってきたんじゃないかぁ！？.mp3")
-    let Path12 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path12 = Bundle.main.bundleURL.appendingPathComponent("面白くなってきたんじゃないか！？.mp3")
     let Path13 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path14 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path15 = Bundle.main.bundleURL.appendingPathComponent("")
