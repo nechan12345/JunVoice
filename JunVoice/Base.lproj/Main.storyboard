@@ -3591,7 +3591,7 @@
                             <button opaque="NO" tag="8" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BQA-nT-eA4">
                                 <rect key="frame" x="10" y="302.66666666666669" width="91" height="81.666666666666686"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="アクセル"/>
+                                <state key="normal" title="エンジンON"/>
                                 <connections>
                                     <action selector="pushButton:" destination="ujO-tE-D4s" eventType="touchUpInside" id="l1d-OL-haZ"/>
                                 </connections>
@@ -4674,7 +4674,7 @@
                             <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="26G-BN-A9R">
                                 <rect key="frame" x="111" y="70" width="91" height="81.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="ﾊﾞﾄﾙﾌｪｲｽﾞ"/>
+                                <state key="normal" title="ドロー！"/>
                                 <connections>
                                     <action selector="pushButton:" destination="2Hd-ny-Bor" eventType="touchUpInside" id="Ksx-a8-ync"/>
                                 </connections>
@@ -4690,7 +4690,7 @@
                             <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jt3-Ne-30O">
                                 <rect key="frame" x="313" y="70" width="91" height="81.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="終わってない"/>
+                                <state key="normal" title="ﾊﾞﾄﾙﾌｪｲｽﾞ"/>
                                 <connections>
                                     <action selector="pushButton:" destination="2Hd-ny-Bor" eventType="touchUpInside" id="ILh-tn-XGz"/>
                                 </connections>
@@ -4698,14 +4698,15 @@
                             <button opaque="NO" tag="4" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RkC-rW-MKt">
                                 <rect key="frame" x="10" y="186.33333333333334" width="91" height="81.333333333333343"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="ﾀｰﾝｴﾝﾄﾞ"/>
+                                <state key="normal" title="終わってない"/>
                                 <connections>
                                     <action selector="pushButton:" destination="2Hd-ny-Bor" eventType="touchUpInside" id="gtJ-ee-hh3"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JHX-2d-Q9I">
+                            <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JHX-2d-Q9I">
                                 <rect key="frame" x="111" y="186.33333333333334" width="91" height="81.333333333333343"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="ﾀｰﾝｴﾝﾄﾞだ!"/>
                                 <connections>
                                     <action selector="pushButton:" destination="2Hd-ny-Bor" eventType="touchUpInside" id="GAX-iX-eAY"/>
                                 </connections>
@@ -4811,7 +4812,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tC1-rY-qf8">
                                 <rect key="frame" x="10" y="70" width="91" height="81.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="俺のターン"/>
+                                <state key="normal" title="俺のターン！"/>
                                 <connections>
                                     <action selector="pushButton:" destination="2Hd-ny-Bor" eventType="touchUpInside" id="mYX-MW-5Yc"/>
                                 </connections>
