@@ -159,20 +159,20 @@
                                     <action selector="pushButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="neK-57-5aP"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="16" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eWz-Gs-UMF">
+                            <button opaque="NO" tag="16" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eWz-Gs-UMF">
                                 <rect key="frame" x="10" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <color key="backgroundColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="なにー？"/>
+                                <state key="normal" title="おやすみ"/>
                                 <connections>
                                     <action selector="pushButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="do1-fQ-kuY"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="17" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VzK-Yy-o9U">
+                            <button opaque="NO" tag="17" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VzK-Yy-o9U">
                                 <rect key="frame" x="111" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <color key="backgroundColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="やってるー？"/>
+                                <state key="normal" title="ｵﾔｽﾐって何?"/>
                                 <connections>
                                     <action selector="pushButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="CTP-hu-mHj"/>
                                 </connections>
@@ -181,7 +181,6 @@
                                 <rect key="frame" x="212" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <color key="backgroundColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="あにー？"/>
                                 <connections>
                                     <action selector="pushButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="hg6-b9-tEi"/>
                                 </connections>
@@ -190,7 +189,6 @@
                                 <rect key="frame" x="313" y="535.66666666666663" width="91" height="81.333333333333371"/>
                                 <color key="backgroundColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
-                                <state key="normal" title="やってるよー"/>
                                 <connections>
                                     <action selector="pushButton:" destination="9pv-A4-QxB" eventType="touchUpInside" id="jRK-Vd-Y8d"/>
                                 </connections>
@@ -4205,16 +4203,18 @@
                                     <action selector="pushButton:" destination="FUr-h1-3LO" eventType="touchUpInside" id="52X-rr-B3i"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="13" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="blx-gF-HDb">
+                            <button opaque="NO" tag="13" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="blx-gF-HDb">
                                 <rect key="frame" x="111" y="419.33333333333331" width="91" height="81.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="面白そう(小)"/>
                                 <connections>
                                     <action selector="pushButton:" destination="FUr-h1-3LO" eventType="touchUpInside" id="usb-Do-Oeu"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="14" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ob8-OO-9dr">
+                            <button opaque="NO" tag="14" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ob8-OO-9dr">
                                 <rect key="frame" x="212" y="419.33333333333331" width="91" height="81.333333333333314"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="面白そう(大)"/>
                                 <connections>
                                     <action selector="pushButton:" destination="FUr-h1-3LO" eventType="touchUpInside" id="Zqt-Zw-dar"/>
                                 </connections>
@@ -4456,9 +4456,10 @@
                                     <action selector="pushButton:" destination="SHW-Ak-7jz" eventType="touchUpInside" id="el5-dI-QDK"/>
                                 </connections>
                             </button>
-                            <button hidden="YES" opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ebv-mO-dH0">
+                            <button opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ebv-mO-dH0">
                                 <rect key="frame" x="111" y="302.66666666666669" width="91" height="81.666666666666686"/>
                                 <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="13"/>
+                                <state key="normal" title="ホワカマ"/>
                                 <connections>
                                     <action selector="pushButton:" destination="SHW-Ak-7jz" eventType="touchUpInside" id="tqr-ca-uXO"/>
                                 </connections>

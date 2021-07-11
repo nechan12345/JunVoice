@@ -26,8 +26,8 @@ class FirstViewController: BaseViewController{
     let Path13 = Bundle.main.bundleURL.appendingPathComponent("ありがとね.mp3")
     let Path14 = Bundle.main.bundleURL.appendingPathComponent("ありがとねぇ.mp3")
     let Path15 = Bundle.main.bundleURL.appendingPathComponent("ありがとねー.mp3")
-    let Path16 = Bundle.main.bundleURL.appendingPathComponent("")
-    let Path17 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path16 = Bundle.main.bundleURL.appendingPathComponent("おやすみなさい.mp3")
+    let Path17 = Bundle.main.bundleURL.appendingPathComponent("おやすみって何.mp3")
     let Path18 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path19 = Bundle.main.bundleURL.appendingPathComponent("")
     
