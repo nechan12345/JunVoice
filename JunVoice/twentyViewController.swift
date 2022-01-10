@@ -1,5 +1,5 @@
 //
-//  FifteenViewController.swift
+//  ThirteenViewController.swift
 //  JunVoice
 //
 //  Created by Nechan on 2020/05/01.
@@ -9,23 +9,23 @@
 import UIKit
 import AVFoundation
 
-class SixteenViewController: BaseViewController {
-    let Path0 = Bundle.main.bundleURL.appendingPathComponent("りーんごんりんごん.mp3")
-    let Path1 = Bundle.main.bundleURL.appendingPathComponent("出口さん大好き.mp3")
-    let Path2 = Bundle.main.bundleURL.appendingPathComponent("乱暴.mp3")
-    let Path3 = Bundle.main.bundleURL.appendingPathComponent("暖房.mp3")
-    let Path4 = Bundle.main.bundleURL.appendingPathComponent("おめでとー、よかったな！.mp3")
-    let Path5 = Bundle.main.bundleURL.appendingPathComponent("ありがとー、よかったな.mp3")
-    let Path6 = Bundle.main.bundleURL.appendingPathComponent("ありがとー、よかったなロングバージョン.mp3")
-    let Path7 = Bundle.main.bundleURL.appendingPathComponent("頑張れサッカー２.mp3")
-    let Path8 = Bundle.main.bundleURL.appendingPathComponent("ホモレモン.mp3")
-    let Path9 = Bundle.main.bundleURL.appendingPathComponent("ホワカマ.mp3")
-    let Path10 = Bundle.main.bundleURL.appendingPathComponent("皆様のコメント.mp3")
-    let Path11 = Bundle.main.bundleURL.appendingPathComponent("ドガース.mp3")
-    let Path12 = Bundle.main.bundleURL.appendingPathComponent("シリカゲル1.mp3")
-    let Path13 = Bundle.main.bundleURL.appendingPathComponent("シリカゲル2.mp3")
-    let Path14 = Bundle.main.bundleURL.appendingPathComponent("シリカゲル3.mp3")
-    let Path15 = Bundle.main.bundleURL.appendingPathComponent("シリカゲル4.mp3")
+class TwentyViewController: BaseViewController {
+    let Path0 = Bundle.main.bundleURL.appendingPathComponent("ドチャンドチャン.mp3")
+    let Path1 = Bundle.main.bundleURL.appendingPathComponent("ドチャン×3.mp3")
+    let Path2 = Bundle.main.bundleURL.appendingPathComponent("ﾔｰﾏﾀﾉｵﾛﾁ.mp3")
+    let Path3 = Bundle.main.bundleURL.appendingPathComponent("ハーハーヒーヒー！.mp3")
+    let Path4 = Bundle.main.bundleURL.appendingPathComponent("ドrrrrrrリン！.mp3")
+    let Path5 = Bundle.main.bundleURL.appendingPathComponent("フヒフー.mp3")
+    let Path6 = Bundle.main.bundleURL.appendingPathComponent("ビッパ.mp3")
+    let Path7 = Bundle.main.bundleURL.appendingPathComponent("ギラティナ.mp3")
+    let Path8 = Bundle.main.bundleURL.appendingPathComponent("ブパブパプィ.mp3")
+    let Path9 = Bundle.main.bundleURL.appendingPathComponent("ブパ_ブパプィ.mp3")
+    let Path10 = Bundle.main.bundleURL.appendingPathComponent("バウワワウ.mp3")
+    let Path11 = Bundle.main.bundleURL.appendingPathComponent("ユキメノコ.mp3")
+    let Path12 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path13 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path14 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path15 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path16 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path17 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path18 = Bundle.main.bundleURL.appendingPathComponent("")
@@ -102,5 +102,4 @@ class SixteenViewController: BaseViewController {
            print("error")
         }
     }
-
 }

@@ -29,7 +29,7 @@ class SixViewController: BaseViewController {
     let Path16 = Bundle.main.bundleURL.appendingPathComponent("まずまずHじゃん.mp3")
     let Path17 = Bundle.main.bundleURL.appendingPathComponent("え！？まだミジュマル一匹なの！？.mp3")
     let Path18 = Bundle.main.bundleURL.appendingPathComponent("嘘でしょそれ.mp3")
-    let Path19 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path19 = Bundle.main.bundleURL.appendingPathComponent("マリオ.mp3")
     
     @IBAction func PushButton(_ sender: UIButton) {
         do{

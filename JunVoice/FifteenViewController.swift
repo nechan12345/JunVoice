@@ -26,8 +26,8 @@ class FifteenViewController: BaseViewController {
     let Path13 = Bundle.main.bundleURL.appendingPathComponent("チューするから許してくんない？.mp3")
     let Path14 = Bundle.main.bundleURL.appendingPathComponent("泣き.mp3")
     let Path15 = Bundle.main.bundleURL.appendingPathComponent("熱い.mp3")
-    let Path16 = Bundle.main.bundleURL.appendingPathComponent("助けてください.mp3")
-    let Path17 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path16 = Bundle.main.bundleURL.appendingPathComponent("負けちゃった.mp3")
+    let Path17 = Bundle.main.bundleURL.appendingPathComponent("また怒られちゃう.mp3")
     let Path18 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path19 = Bundle.main.bundleURL.appendingPathComponent("")
      

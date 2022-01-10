@@ -1,31 +1,31 @@
 //
-//  FifteenViewController.swift
+//  NineteenViewController.swift
 //  JunVoice
 //
-//  Created by Nechan on 2020/05/01.
-//  Copyright © 2020 Nechan. All rights reserved.
+//  Created by 根津拓真 on 2022/01/09.
+//  Copyright © 2022 Nechan. All rights reserved.
 //
 
 import UIKit
 import AVFoundation
 
-class SixteenViewController: BaseViewController {
-    let Path0 = Bundle.main.bundleURL.appendingPathComponent("りーんごんりんごん.mp3")
-    let Path1 = Bundle.main.bundleURL.appendingPathComponent("出口さん大好き.mp3")
-    let Path2 = Bundle.main.bundleURL.appendingPathComponent("乱暴.mp3")
-    let Path3 = Bundle.main.bundleURL.appendingPathComponent("暖房.mp3")
-    let Path4 = Bundle.main.bundleURL.appendingPathComponent("おめでとー、よかったな！.mp3")
-    let Path5 = Bundle.main.bundleURL.appendingPathComponent("ありがとー、よかったな.mp3")
-    let Path6 = Bundle.main.bundleURL.appendingPathComponent("ありがとー、よかったなロングバージョン.mp3")
-    let Path7 = Bundle.main.bundleURL.appendingPathComponent("頑張れサッカー２.mp3")
-    let Path8 = Bundle.main.bundleURL.appendingPathComponent("ホモレモン.mp3")
-    let Path9 = Bundle.main.bundleURL.appendingPathComponent("ホワカマ.mp3")
-    let Path10 = Bundle.main.bundleURL.appendingPathComponent("皆様のコメント.mp3")
-    let Path11 = Bundle.main.bundleURL.appendingPathComponent("ドガース.mp3")
-    let Path12 = Bundle.main.bundleURL.appendingPathComponent("シリカゲル1.mp3")
-    let Path13 = Bundle.main.bundleURL.appendingPathComponent("シリカゲル2.mp3")
-    let Path14 = Bundle.main.bundleURL.appendingPathComponent("シリカゲル3.mp3")
-    let Path15 = Bundle.main.bundleURL.appendingPathComponent("シリカゲル4.mp3")
+class NineteenViewController: BaseViewController {
+    let Path0 = Bundle.main.bundleURL.appendingPathComponent("ウチは居酒屋じゃないんだから.mp3")
+    let Path1 = Bundle.main.bundleURL.appendingPathComponent("お客さんドンドン入れてー.mp3")
+    let Path2 = Bundle.main.bundleURL.appendingPathComponent("ビール一丁.mp3")
+    let Path3 = Bundle.main.bundleURL.appendingPathComponent("ラーメン一丁.mp3")
+    let Path4 = Bundle.main.bundleURL.appendingPathComponent("おきゃくたま.mp3")
+    let Path5 = Bundle.main.bundleURL.appendingPathComponent("おきゃくたまって呼ぼうかな.mp3")
+    let Path6 = Bundle.main.bundleURL.appendingPathComponent("おきゃくたまって呼ぶね.mp3")
+    let Path7 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path8 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path9 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path10 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path11 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path12 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path13 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path14 = Bundle.main.bundleURL.appendingPathComponent("")
+    let Path15 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path16 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path17 = Bundle.main.bundleURL.appendingPathComponent("")
     let Path18 = Bundle.main.bundleURL.appendingPathComponent("")

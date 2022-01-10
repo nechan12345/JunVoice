@@ -16,7 +16,7 @@ class FirstViewController: BaseViewController{
     let Path3 = Bundle.main.bundleURL.appendingPathComponent("よろしゅう！.wav")
     let Path4 = Bundle.main.bundleURL.appendingPathComponent("やぁ.mp3")
     let Path5 = Bundle.main.bundleURL.appendingPathComponent("ひん.mp3")
-    let Path6 = Bundle.main.bundleURL.appendingPathComponent("私はそうは思いません。.mp3")
+    let Path6 = Bundle.main.bundleURL.appendingPathComponent("俺加藤だけどなんだあれ.mp3")
     let Path7 = Bundle.main.bundleURL.appendingPathComponent("終わり！.mp3")
     let Path8 = Bundle.main.bundleURL.appendingPathComponent("行ってらっしゃい.mp3")
     let Path9 = Bundle.main.bundleURL.appendingPathComponent("いってきまーす.mp3")
